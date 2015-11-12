@@ -331,16 +331,3 @@ select[onchange="if (this.value != '') { window.location = this.value; }"]{
   top: 17px;
   right: 10px;
 }
-/*=========== for table.list.status ======*/
-.list.issues tr.issue.status-5 {
-    /** 終了 */
-    background: #dde;
-}
-.list.issues tr.issue.status-6 {
-    /** 却下 */
-    background: #dde;
-}
-.list.issues tr.issue.status-7 {
-    /** 処理済み */
-    background: #ded;
-}
